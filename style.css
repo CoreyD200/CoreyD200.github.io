@@ -31,6 +31,12 @@ body {
   font-size: small;
 }
 
+.navbar-toggler {
+  width: 47px;
+  height: 34px;
+  background-color: #7eb444;
+  border:none;
+}
 
 .content {
   width:90%;
@@ -115,3 +121,4 @@ tr {
     background-color: lightblue;
   }
 }
+
